@@ -1,4 +1,6 @@
-# Setting AWS Key & Secret
+# S3 deploy with CircleCI Example
+
+## Setting AWS Key & Secret
 
 CircleCI > Project Settings > Environment > Add Variable
 
