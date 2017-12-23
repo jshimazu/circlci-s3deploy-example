@@ -17,9 +17,10 @@ Replace `example.com` to `yourbucket.com` on .circleci/config.yml
 
 ## How to deploy
 
-commit on develop to **develop**
 
-commit on master to **staging**
-
-commit on production to **production**
+|branch| deploy env |
+|---|---| 
+| develop | **develop** |
+| master |  **staging** |
+| production | **production** |
 
